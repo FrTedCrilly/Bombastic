@@ -1,0 +1,29 @@
+CurveID,Currency,ticker,tenor,years,months,days,type,cumul
+1,ZAR,SASW10 BGN Curncy,10Y,10,,,swap,F
+1,GBP,BP0001M Index,1M,1,,,rate,F
+1,GBP,BP0002M Index,2M,2,,,rate,F
+1,GBP,BP0003M Index,3M,3,,,rate,F
+1,GBP,BP0006M Index,6M,6,,,rate,F
+1,GBP,BPSWS1 Curncy,1Y,1,,,swap,F
+1,GBP,BPSWS2 Curncy,2Y,2,,,swap,F
+1,GBP,BPSWS3 Curncy,3Y,3,,,swap,F
+1,GBP,BPSWS4 Curncy,4Y,4,,,swap,F
+1,GBP,BPSWS5 Curncy,5Y,5,,,swap,F
+1,GBP,BPSWS6 Curncy,6Y,6,,,swap,F
+1,GBP,BPSWS7 Curncy,7Y,7,,,swap,F
+1,GBP,BPSWS8 Curncy,8Y,8,,,swap,F
+1,GBP,BPSWS9 Curncy,9Y,9,,,swap,F
+1,GBP,BPSWS10 Curncy,10Y,10,,,swap,F
+1,GBP,BPSWS11 Curncy,11Y,11,,,swap,F
+2,GBP,BPSWSC Curncy,3M,3,,,rate,F
+2,GBP,BPSWS1 Curncy,1Y,1,,,swap,F
+2,GBP,BPSWS2 Curncy,2Y,2,,,swap,F
+2,GBP,BPSWS3 Curncy,3Y,3,,,swap,F
+2,GBP,BPSWS4 Curncy,4Y,4,,,swap,F
+2,GBP,BPSWS5 Curncy,5Y,5,,,swap,F
+2,GBP,BPSWS6 Curncy,6Y,6,,,swap,F
+2,GBP,BPSWS7 Curncy,7Y,7,,,swap,F
+2,GBP,BPSWS8 Curncy,8Y,8,,,swap,F
+2,GBP,BPSWS9 Curncy,9Y,9,,,swap,F
+2,GBP,BPSWS10 Curncy,10Y,10,,,swap,F
+2,GBP,BPSWS11 Curncy,11Y,11,,,swap,F

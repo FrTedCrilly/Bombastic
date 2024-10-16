@@ -1,0 +1,5 @@
+Number,Asset,Country,RegionForLag,Startout,class,sizing,carry,dollar,weight,comm,commexpr,quotecurr,pointvalue,bbticker,resizetrigger,tenor,OISquery,FixedCal,FixedFreq,FloatCal,FloatFreq,FloatReset,SettleOff,FloatQuery,minTicket,sandexpr,rollSlippage
+1,NKSW5,NO,Europe,01-Jan-70,IRS,floor_SR(10),notRequired,SCP(10),1,1,bidaskSmoc,NOK,1,NKSW5 Curncy,resizeDelta_R,5,NIBOR M,30/360,12,ACT/360,6,6,2,NIBOR6M,250,applyMin,0.5
+2,SKSW5,SE,Europe,01-Jan-70,IRS,floor_SR(10),notRequired,SCP(10),1,1,bidaskSmoc,SEK,1,SKSW5 Curncy,resizeDelta_R,5,STIB M,30/360,12,ACT/360,3,3,2,STIB3M,250,applyMin,0.5
+3,CKSW5,CZ,Europe,01-Jan-70,IRS,floor_SR(25),notRequired,SCP(10),1,1,bidaskSmoc,CZK,1,CKSW5 Curncy,resizeDelta_R,5,PRIBOR M,ACT/360,12,ACT/360,6,6,2,PRIB06M,250,applyMin,0.5
+4,PZSW5,PL,Europe,01-Jan-70,IRS,floor_SR(25),notRequired,SCP(10),1,1,bidaskSmoc,PLN,1,PZSW5 Curncy,resizeDelta_R,5,WIBOR M,ACT/ACT,12,ACT/365,6,6,2,WIBR6M,250,applyMin,0.5

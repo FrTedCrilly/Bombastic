@@ -1,0 +1,33 @@
+Currency	Country	alt	code	app1	app2	term	app3	bbcode	prefix	suffix
+AUD	AD		AD	SW	AP	10	Curncy	ADSWAP10 Curncy	ADSWAP	Curncy
+CAD	CD		CD	SW		10	Curncy	CDSW10 Curncy	CDSW	Curncy
+EUR	EU	EU	EU	SW		10	Curncy	EUSA10 Curncy	EUSA	Curncy
+NZD	ND	ND	ND	SW	AP	10	Curncy	NDSW10 Curncy	NDSW	Curncy
+NOK	NK		NK	SW		10	Curncy	NKSW10 Curncy	NKSW	Curncy
+SEK	SK		SK	SW		10	Curncy	SKSW10 Curncy	SKSW	Curncy
+MXN	MN		MN	SW		10	Curncy	MNSW10 Curncy	MNSW	Curncy
+SGD	SD		SD	SW		10	Curncy	SDSW10 Curncy	SDSW	Curncy
+ZAR	ZR	SA	SA	SW		10	Curncy	SASW10 Curncy	SASW	Curncy
+BRL	BL	BC	SW	NPD		10	Curncy	BCSWNPD Curncy	BCSWNPD	Curncy
+INR	IR		IR	SW	M	10	Curncy	IRSWM10 Curncy	IRSWM	Curncy
+IDR	IR		IR	SW		10	Curncy	IRSW10 Curncy	IRSW	Curncy
+HUF	HF		HF	SW		10	Curncy	HFSW10 Curncy	HFSW	Curncy
+ILS	IS		IS	SW		10	Curncy	ISSW10 Curncy	ISSW	Curncy
+MYR	MR		MR	SW	QO	10	Curncy	MRSWQO10 Curncy	MRSWQO	Curncy
+PHP	PP		PP	SW		10	Curncy	PPSW10 Curncy	PPSW	Curncy
+RUB	RR		RR	SW	M	10	Curncy	RRSWM10 Curncy	RRSWM	Curncy
+CZK	CZ		CK	SW		10	Curncy	CKSW10 Curncy	CKSW	Curncy
+KRW	KW		KW	SW		10	Curncy	KWSW10 Curncy	KWSW	Curncy
+PLN	PN	PZ	PZ	SW		10	Curncy	PZSW10 Curncy	PZSW	Curncy
+THB	TB		TB	SW	O	10	Curncy	TBSW10 Curncy	TBSW	Curncy
+TRY	TY		TY	SW	V	10	Curncy	TYSW10 Curncy	TYSW	Curncy
+TWD	TD	NT	NT	SW		10	Curncy	NTSW10 Curncy	NTSW	Curncy
+CNH	CN	CC	SW	N		5	Curncy	CCSWNI5 Curncy	CCSWNI	Curncy
+CNY	CN	CC	SW	N		10	Curncy	CCSWNI5 Curncy	CCSWNI	Curncy
+CLP	CP		CP	SW		10	Curncy	CPSW10 Curncy	CPSW	Curncy
+COP	CP		CP	SW		10	Curncy	CPSW10 Curncy	CPSW	Curncy
+USD	US		US	SW		10	Curncy	USSW10 Curncy	USSW	Curncy
+DKK	DK		DK	SW		10	Curncy	DKSW10 Curncy	DKSW	Curncy
+HKD	HK		HK	SW		10	Curncy	HDSW10 Curncy	HDSW	Curncy
+GBP	GP	BP	BP	SW		10	Curncy	BPSW10 Curncy	BPSW	Curncy
+JPY	JY		JY	SW		10	Curncy	JYSW10 Curncy	JYSW	Curncy

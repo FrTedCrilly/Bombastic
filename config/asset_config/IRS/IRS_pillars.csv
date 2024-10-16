@@ -1,0 +1,130 @@
+IRS,Currency,ticker,tenor,years,months,days,type,cumul
+1,CLP,CLICP Index,1D,,,1,rate,T
+1,CLP,CHSWP1 BGN Curncy,1Y,1,,,swap,F
+1,CLP,CHSWP2 BGN Curncy,2Y,2,,,swap,F
+1,CLP,CHSWP3 BGN Curncy,3Y,3,,,swap,F
+1,CLP,CHSWP4 BGN Curncy,4Y,4,,,swap,F
+1,CLP,CHSWP5 BGN Curncy,5Y,5,,,swap,F
+1,CLP,CHSWP6 BGN Curncy,6Y,6,,,swap,F
+1,CLP,CHSWP7 BGN Curncy,7Y,7,,,swap,F
+1,CLP,CHSWP8 BGN Curncy,8Y,8,,,swap,F
+1,CLP,CHSWP9 BGN Curncy,9Y,9,,,swap,F
+1,CLP,CHSWP10 BGN Curncy,10Y,10,,,swap,F
+1,BRL,BZDIOVRA Index,1D,,,1,rate,F
+1,BRL,BCSFAPDV CMPN Curncy,1M,,1,,swap,F
+1,BRL,BCSFDPDV CMPN Curncy,4M,,4,,swap,F
+1,BRL,BCSFFPDV CMPN Curncy,5M,,5,,swap,F
+1,BRL,BCSFGPDV CMPN Curncy,6M,,6,,swap,F
+1,BRL,BCSFHPDV CMPN Curncy,8M,,8,,swap,F
+1,BRL,BCSFIPDV CMPN Curncy,9M,,9,,swap,F
+1,BRL,BCSFJPDV CMPN Curncy,10M,,10,,swap,F
+1,BRL,BCSFKPDV CMPN Curncy,11M,,11,,swap,F
+1,BRL,BCSFLPDV CMPN Curncy,12M,,12,,swap,F
+1,BRL,BCSFPPDV CMPN Curncy,2Y,,,504,swap,F
+1,BRL,BCSFQPDV CMPN Curncy,3Y,,,756,swap,F
+1,MXN,MXIBTI1E Index,1D,,,1,rate,F
+1,MXN,MPSW1A BGN Curncy,1Y,1,,,swap,F
+1,MXN,MPSW2B BGN Curncy,2Y,2,,,swap,F
+1,MXN,MPSW3C BGN Curncy,3Y,3,,,swap,F
+1,MXN,MPSW4D BGN Curncy,4Y,4,,,swap,F
+1,MXN,MPSW5E BGN Curncy,5Y,,65,,swap,F
+1,MXN,MPSW6F BGN Curncy,6Y,6,,,swap,F
+1,MXN,MPSW7G BGN Curncy,7Y,7,,,swap,F
+1,MXN,MPSW8H BGN Curncy,8Y,8,,,swap,F
+1,MXN,MPSW9I BGN Curncy,9Y,9,,,swap,F
+1,MXN,MPSW10J BGN Curncy,10Y,10,,,swap,F
+1,COP,COOVIBR Index,1D,,,1,rate,F
+1,COP,CLSWI1B BGN Curncy,1Y,1,,,swap,F
+1,COP,CLSWI2B BGN Curncy,2Y,2,,,swap,F
+1,COP,CLSWI3B BGN Curncy,3Y,3,,,swap,F
+1,COP,CLSWI4B BGN Curncy,4Y,4,,,swap,F
+1,COP,CLSWI5B BGN Curncy,5Y,5,,,swap,F
+1,COP,CLSWI6B BGN Curncy,6Y,6,,,swap,F
+1,COP,CLSWI7B BGN Curncy,7Y,7,,,swap,F
+1,COP,CLSWI8B BGN Curncy,8Y,8,,,swap,F
+1,COP,CLSWI9B BGN Curncy,9Y,9,,,swap,F
+1,COP,CLSWI10B BGN Curncy,10Y,10,,,swap,F
+1,INR,MIFOM3M Index,3M,,3,,rate,F
+1,INR,MIFOM6M Index,6M,,6,,rate,F
+1,INR,IRSWM1 BGN Curncy,1Y,1,,,swap,F
+1,INR,IRSWMM1 BGN Curncy,1Y,1,,,swap,F
+1,INR,IRSWM2 BGN Curncy,2Y,2,,,swap,F
+1,INR,IRSWMM2 BGN Curncy,2Y,2,,,swap,F
+1,INR,IRSWM3 BGN Curncy,3Y,3,,,swap,F
+1,INR,IRSWMM3 BGN Curncy,3Y,3,,,swap,F
+1,INR,IRSWM4 BGN Curncy,4Y,4,,,swap,F
+1,INR,IRSWMM4 BGN Curncy,4Y,4,,,swap,F
+1,INR,IRSWM5 BGN Curncy,5Y,5,,,swap,F
+1,INR,IRSWMM5 BGN Curncy,5Y,5,,,swap,F
+1,INR,IRSWM6 BGN Curncy,6Y,6,,,swap,F
+1,INR,IRSWMM6 BGN Curncy,6Y,6,,,swap,F
+1,INR,IRSWM7 BGN Curncy,7Y,7,,,swap,F
+1,INR,IRSWMM7 BGN Curncy,7Y,7,,,swap,F
+1,INR,IRSWM8 BGN Curncy,8Y,8,,,swap,F
+1,INR,IRSWMM8 BGN Curncy,8Y,8,,,swap,F
+1,INR,IRSWM9 BGN Curncy,9Y,9,,,swap,F
+1,INR,IRSWMM9 BGN Curncy,9Y,9,,,swap,F
+1,INR,IRSWM10 BGN Curncy,10Y,10,,,swap,F
+1,INR,IRSWMM10 BGN Curncy,10Y,10,,,swap,F
+1,MYR,KLIB3M Index,3M,,3,,rate,F
+1,MYR,KLIB6M Index,6M,,6,,rate,F
+1,MYR,MRSWQO1 CMPN Curncy,1Y,1,,,swap,F
+1,MYR,MRSWQO2 CMPN Curncy,2Y,2,,,swap,F
+1,MYR,MRSWQO3 CMPN Curncy,3Y,3,,,swap,F
+1,MYR,MRSWQO4 CMPN Curncy,4Y,4,,,swap,F
+1,MYR,MRSWQO5 CMPN Curncy,5Y,5,,,swap,F
+1,MYR,MRSWQO6 CMPN Curncy,7Y,7,,,swap,F
+1,MYR,MRSWQO8 CMPN Curncy,8Y,8,,,swap,F
+1,MYR,MRSWQO9 CMPN Curncy,9Y,9,,,swap,F
+1,MYR,MRSWQO10 CMPN Curncy,10Y,10,,,swap,F
+1,SGD,SIBCSORA Index,1D,,,1,rate,F
+1,SGD,SORF6M,6M,,6,,rate,F
+1,SGD,SDSOA1 BGN Curncy,1Y,1,,,swap,F
+1,SGD,SDSOA2 BGN Curncy,2Y,2,,,swap,F
+1,SGD,SDSOA3 BGN Curncy,3Y,3,,,swap,F
+1,SGD,SDSOA4 BGN Curncy,4Y,4,,,swap,F
+1,SGD,SDSOA5 BGN Curncy,5Y,5,,,swap,F
+1,SGD,SDSOA6 BGN Curncy,6Y,6,,,swap,F
+1,SGD,SDSOA7 BGN Curncy,7Y,7,,,swap,F
+1,SGD,SDSOA8 BGN Curncy,8Y,8,,,swap,F
+1,SGD,SDSOA9 BGN Curncy,9Y,9,,,swap,F
+1,SGD,SDSOA10 BGN Curncy,10Y,10,,,swap,F
+1,ZAR,JIBA3M Index,3M,,3,,rate,F
+1,ZAR,JIBA6M Index,6M,,6,,rate,F
+1,ZAR,SASW1 BGN Curncy,1Y,1,,,swap,F
+1,ZAR,SASW2 BGN Curncy,2Y,2,,,swap,F
+1,ZAR,SASW3 BGN Curncy,3Y,3,,,swap,F
+1,ZAR,SASW4 BGN Curncy,4Y,4,,,swap,F
+1,ZAR,SASW5 BGN Curncy,5Y,5,,,swap,F
+1,ZAR,SASW6 BGN Curncy,6Y,6,,,swap,F
+1,ZAR,SASW7 BGN Curncy,7Y,7,,,swap,F
+1,ZAR,SASW8 BGN Curncy,8Y,8,,,swap,F
+1,ZAR,SASW9 BGN Curncy,9Y,9,,,swap,F
+1,ZAR,SASW10 BGN Curncy,10Y,10,,,swap,F
+1,GBP,BP0001M Index,1M,,1,,rate,F
+1,GBP,BP0002M Index,2M,,2,,rate,F
+1,GBP,BP0003M Index,3M,,3,,rate,F
+1,GBP,BP0006M Index,6M,,6,,rate,F
+1,GBP,BPSWS1 Curncy,1Y,1,,,swap,F
+1,GBP,BPSWS2 Curncy,2Y,2,,,swap,F
+1,GBP,BPSWS3 Curncy,3Y,3,,,swap,F
+1,GBP,BPSWS4 Curncy,4Y,4,,,swap,F
+1,GBP,BPSWS5 Curncy,5Y,5,,,swap,F
+1,GBP,BPSWS6 Curncy,6Y,6,,,swap,F
+1,GBP,BPSWS7 Curncy,7Y,7,,,swap,F
+1,GBP,BPSWS8 Curncy,8Y,8,,,swap,F
+1,GBP,BPSWS9 Curncy,9Y,9,,,swap,F
+1,GBP,BPSWS10 Curncy,10Y,10,,,swap,F
+1,GBP,BPSWS11 Curncy,11Y,11,,,swap,F
+2,GBP,BPSWSC Curncy,3M,,3,,rate,F
+2,GBP,BPSWS1 Curncy,1Y,1,,,swap,F
+2,GBP,BPSWS2 Curncy,2Y,2,,,swap,F
+2,GBP,BPSWS3 Curncy,3Y,3,,,swap,F
+2,GBP,BPSWS4 Curncy,4Y,4,,,swap,F
+2,GBP,BPSWS5 Curncy,5Y,5,,,swap,F
+2,GBP,BPSWS6 Curncy,6Y,6,,,swap,F
+2,GBP,BPSWS7 Curncy,7Y,7,,,swap,F
+2,GBP,BPSWS8 Curncy,8Y,8,,,swap,F
+2,GBP,BPSWS9 Curncy,9Y,9,,,swap,F
+2,GBP,BPSWS10 Curncy,10Y,10,,,swap,F
+2,GBP,BPSWS11 Curncy,11Y,11,,,swap,F

@@ -1,0 +1,12 @@
+Number,Asset,Country,RegionForLag,Startout,class,sizing,dollar,weight,comm,commexpr,quotecurr,pointvalue,bbticker,resizetrigger,tenor,OISquery,FixedCal,FixedFreq,FloatCal,FloatFreq,FloatReset,FloatQuery,SettleOff,minTicket,sandexpr,rollSlippage,CurveID
+,BRLSW3,BR,America,01-Jan-70,IRS,floor_SR(10),SCP(10),1,1,commFunc,BRL,1,BCSFQPDV CMPN Curncy,resizeDelta_R,3,BZDIOVRA Index,ACT/360,6,ACT/360,6,0,BZDIOVRA,0,250,applyMin,0.5,1
+,,CL,America,01-Jan-70,IRS,floor_SR(10),SCP(10),1,1,commFunc,CLP,1,CHSWP5 BGN Curncy,resizeDelta_R,5,CLICP Index,ACT/360,6,ACT/360,6,6,CLICP,2,250,applyMin,0.5,1
+,,MX,America,01-Jan-70,IRS,floor_SR(10),SCP(10),1,1,commFunc,MXN,1,MPSW5E BGN Curncy,resizeDelta_R,5,MXIBTI1E Index,ACT/360,1,ACT/360,1,1,MXIBTI1E Index,1,250,applyMin,0.5,1
+,,CO,Europe,01-Jan-70,IRS,floor_SR(10),SCP(10),1,1,commFunc,COP,1,CLSWI5B BGN Curncy,resizeDelta_R,5,COOVIBR Index,ACT/360,3,ACT/360,3,0,COOVIBR Index,2,250,applyMin,0.5,1
+,,IN,Asia,01-Jan-70,IRS,floor_SR(10),SCP(10),1,1,commFunc,INR,1,IRSWM5 BGN Curncy,resizeDelta_R,5,MIFOM6M Index,ACT/365,6,ACT/365,6,6,MIFOM6M Index,2,250,applyMin,0.5,1
+,,MY,Asia,01-Jan-70,IRS,floor_SR(10),SCP(10),1,1,commFunc,MYR,1,MRSWQO5 CMPN Curncy,resizeDelta_R,5,KLIB3M Index,ACT/365,3,ACT/365,3,3,KLIB3M Index,0,250,applyMin,0.5,1
+,,SG,Asia,01-Jan-70,IRS,floor_SR(10),SCP(10),1,1,commFunc,SGD,1,SDSOA5 BGN Curncy,resizeDelta_R,5,SIBCSORA Index,ACT/365,6,ACT/365,6,0,SIBCSORA Index,2,250,applyMin,0.5,1
+,,ZA,Europe,01-Jan-70,IRS,floor_SR(10),SCP(10),1,1,commFunc,ZAR,1,SASW5 BGN Curncy,resizeDelta_R,5,JIBA3M Index,ACT/365,3,ACT/365,3,3,JIBA3M Index,2,250,applyMin,0.5,1
+,,NO,Europe,01-Jan-70,IRS,floor_SR(10),SCP(10),1,1,commFunc,NOK,1,NKSW5  Curncy,resizeDelta_R,5,NIBOR Index,30/360,12,ACT/360,6,6,NIBOR6M,2,250,applyMin,0.5,2
+,,SE,Europe,01-Jan-70,IRS,floor_SR(10),SCP(10),1,1,commFunc,SEK,1,SKSW5 Curncy,resizeDelta_R,5,STIB Index,30/360,12,ACT/360,3,3,STIB3M,2,250,applyMin,0.5,2
+,,GB,Europe,01-Jan-70,IRS,floor_SR(10),SCP(10),1,1,commFunc,GBP,1,BPSW5S Curncy,resizeDelta_R,5,BP000 M,ACT/360,6,ACT/360,6,6,BP0006M,2,250,applyMin,0.5,1
